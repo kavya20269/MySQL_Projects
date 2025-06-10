@@ -13,10 +13,10 @@ Tools: MySQL Workbench.
 
 📂 Files
 
-├── schema.sql : Database creation and table structure
-├── insert_data.sql : Sample data for all tables
-├── sample_queries.sql  : Analysis and reporting queries
-├── er_diagram.png  : Project overview and usage instructions
+* schema.sql : Database creation and table structure
+* insert_data.sql : Sample data for all tables
+*  sample_queries.sql  : Analysis and reporting queries
+*  er_diagram.png  : Project overview and usage instructions
 
 
 📊 Sample SQL Queries Included
